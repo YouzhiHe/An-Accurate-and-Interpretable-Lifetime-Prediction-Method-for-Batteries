@@ -1,5 +1,4 @@
-# An-Accurate-and-Interpretable-Lifetime-Prediction-Method-for-Batteries
-
+# An-Accurate-and-Interpretable-Lifetime-Prediction-Method-for-Batteries-using-Extreme-Gradient-Boosting-Tree-and-TreeExplainer
 ## 为什么有这个库
 
     本代码库是发表于2021 IEEE 23rd Int Conf on High Performance Computing & Communications会议的论文An Accurate and Interpretable Lifetime Prediction Method for Batteries using Extreme Gradient Boosting Tree and TreeExplainer Boosting Tree and TreeExplainer的主要代码。
