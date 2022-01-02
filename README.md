@@ -2,7 +2,7 @@
 
 ## 为什么有这个库
 
-    本代码库是发表于2021 IEEE 23rd Int Conf on High Performance Computing & Communications会议的论文An Accurate and Interpretable Lifetime Prediction Method for Batteries using Extreme Gradient Boosting Tree and TreeExplainer Boosting Tree and TreeExplaine的主要代码。
+    本代码库是发表于2021 IEEE 23rd Int Conf on High Performance Computing & Communications会议的论文An Accurate and Interpretable Lifetime Prediction Method for Batteries using Extreme Gradient Boosting Tree and TreeExplainer Boosting Tree and TreeExplainer的主要代码。
     虽然本代码库没啥卵用，但是秉着开源精神，还是将其放上来，哈哈哈。
 
 ## 如何运行
